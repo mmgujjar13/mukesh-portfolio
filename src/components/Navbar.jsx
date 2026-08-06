@@ -195,7 +195,7 @@ export function Navbar() {
 
           <div className="flex flex-col items-center mt-12 mb-10">
             <img
-              src="/profile.svg"
+              src="/profile.png"
               alt="Mukesh Gujjar"
               className="w-24 h-24 rounded-full border-4 border-blue-600 object-cover"
             />

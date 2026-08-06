@@ -108,7 +108,7 @@ export function Hero() {
               </a>
 
               <a
-                href="https://github.com/"
+                href="https://github.com/mmgujjar13"
                 target="_blank"
                 rel="noreferrer"
                 className="w-10 h-10 rounded-full glass flex items-center justify-center hover-glow"

@@ -80,7 +80,7 @@ const awards = [
   {
     title: "Highest Revenue Generator",
     institute: "Atlassoftweb",
-    year: "2022, 2024, 2025",
+    year: "Nov 2022, Nov 2024",
     description: "Awarded for project delivery contributing ₹1.8Cr+ in annual revenue.",
   },
   {

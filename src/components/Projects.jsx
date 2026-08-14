@@ -15,17 +15,18 @@ const projects = [
     ],
   },
   {
-    title: "Italian EdTech Client",
+    title: "Italian EdTech Platforms",
     category: "Dedicated Technical Lead",
     company: "EpiCode, BeamMeUp, Brainteractive, PCTO",
-    duration: "2021 - 2023",
-    desc: "Long-term dedicated technical point of contact directing engineering across four educational platforms in Italy.",
+    duration: "2021 - Present",
+    desc: "Dedicated technical point of contact directing engineering across four educational platforms in Italy — direct client communication (via Skype chat) from 2021-2023, with ongoing contributions through Atlassoftweb's client engagement since 2023.",
     technologies: ["BuddyBoss", "LearnDash", "Stripe", "Monaco Editor"],
     highlights: [
       "Oversaw BuddyBoss and LearnDash customization for learning management, coaching and recruitment.",
       "Directed tailored CRM, recruitment and KPI modules for Tutor, Coach and Admin roles.",
       "Directed integration of a frontend Monaco Editor for live coding practice.",
       "Directed custom Stripe gateways for course enrollments.",
+      "Continued contributing to these platforms through Atlassoftweb's ongoing client engagement, including active work as recently as this month.",
     ],
   },
   {

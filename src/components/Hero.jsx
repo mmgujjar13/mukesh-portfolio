@@ -25,7 +25,7 @@ export function Hero() {
           >
             <div className="inline-flex items-center gap-3 bg-gray-100 dark:bg-white/10 backdrop-blur-lg px-5 py-2 rounded-full text-sm">
               <FaBriefcase className="text-green-500 w-2 h-2 animate-ping" />
-              Open to Remote Opportunities
+              Freelance — Immediately Available
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-7xl font-bold">

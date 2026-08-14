@@ -3,9 +3,20 @@ import { FaBriefcase, FaGraduationCap } from "react-icons/fa";
 
 const workHistory = [
   {
+    company: "Self-Employed",
+    role: "Freelance Full-Stack Developer (Laravel/WordPress)",
+    period: "Jul 2026 - Present",
+    location: "Surat, Gujarat",
+    skills: ["Laravel", "WordPress", "Freelance"],
+    points: [
+      "Engaged as an independent freelance developer, including a current 3-month contract with former employer Atlassoftweb (through Sept 2026), continuing ownership of the AMC platform and modular CMS architecture built in-house.",
+      "Taking on additional freelance client work in Laravel and WordPress development while pursuing a full-time senior/lead role.",
+    ],
+  },
+  {
     company: "Atlassoftweb",
     role: "Technical Lead — WordPress & Laravel",
-    period: "Apr 2021 - Present",
+    period: "Apr 2021 - Jun 2026",
     location: "Ahmedabad, Gujarat",
     skills: ["Laravel", "WordPress", "AWS", "Redis", "CI/CD"],
     points: [

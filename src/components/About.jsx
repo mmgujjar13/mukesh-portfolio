@@ -83,11 +83,13 @@ export function About() {
 
             <p className="text-gray-600 dark:text-gray-400 mb-6">
               I'm a Technical Lead with 10+ years leading engineering teams and
-              delivering enterprise WordPress and Laravel platforms. I lead a
+              delivering enterprise WordPress and Laravel platforms. I led a
               cross-functional team of five — developers, UI and QA — at
               Atlassoftweb, owning architecture decisions, release management
               and mentorship across a 90+ platform delivery track record in
-              healthcare, education, logistics and membership domains.
+              healthcare, education, logistics and membership domains. I'm
+              currently freelance and actively exploring senior/lead full-time
+              roles.
             </p>
 
             <p className="text-gray-600 dark:text-gray-400 mb-6">
@@ -132,7 +134,7 @@ export function About() {
                 {
                   icon: <FaBriefcase />,
                   title: "Availability",
-                  value: "Open to Remote / Surat-based Roles",
+                  value: "Freelance — Immediately Available for Interviews",
                 },
               ].map((item, i) => (
                 <div

@@ -95,10 +95,10 @@ export function About() {
             <p className="text-gray-600 dark:text-gray-400 mb-6">
               I've generated ₹1.8Cr+ in annual revenue through project
               delivery, earning Atlassoftweb's Highest Revenue Generator award
-              in 2022, 2024 and 2025. On the technical side, I've driven a 40%
-              page-load improvement (2.0s → 1.2s), closed SQL injection and
-              XSS vulnerabilities across production sites, and scaled AWS EC2
-              infrastructure supporting a WordPress Multisite network of 40+
+              in 2022, 2024 and Key Contributor in 2025. On the technical side,
+              I've driven a 40% page-load improvement (2.0s → 1.2s),
+              closed SQL injection and XSS vulnerabilities across production sites,
+              and scaled AWS EC2 infrastructure supporting a WordPress Multisite network of 40+
               active subdomains at 99.9% uptime.
             </p>
 

@@ -36,7 +36,6 @@ const workHistory = [
     skills: ["WordPress", "ACF Pro", "WooCommerce"],
     points: [
       "Architected flexible, client-manageable content structures using ACF Pro for enterprise clients.",
-      "Built custom WooCommerce extensions for dynamic pricing and advanced shipping logic at high-volume stores.",
       "Maintained 99.9% uptime across the full client portfolio.",
     ],
   },

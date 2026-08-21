@@ -33,7 +33,7 @@ const workHistory = [
     role: "Senior WordPress Developer",
     period: "Apr 2020 - Apr 2021",
     location: "Ahmedabad, Gujarat",
-    skills: ["WordPress", "ACF Pro", "WooCommerce"],
+    skills: ["WordPress", "ACF Pro"],
     points: [
       "Architected flexible, client-manageable content structures using ACF Pro for enterprise clients.",
       "Maintained 99.9% uptime across the full client portfolio.",

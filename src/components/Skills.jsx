@@ -125,6 +125,7 @@ export function Skills() {
               {[
                 "Laravel",
                 "WordPress Core",
+                "WooCommerce",
                 "ACF Pro",
                 "BuddyBoss",
                 "LearnDash",

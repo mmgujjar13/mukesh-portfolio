@@ -48,6 +48,33 @@ const caseStudies = [
     tech: ["Laravel 11/12", "MySQL", "Redis Queues", "AWS EC2"],
   },
   {
+    title: "AMC Platform — Laravel to Node.js/Express Migration",
+    subtitle: "Self-Directed Node.js Learning Project",
+    overview:
+      "A personal, self-driven project to deepen my Node.js expertise: taking the AMC Service Management Platform I originally built in Laravel at Atlassoftweb and rebuilding its backend from scratch on Node.js/Express with Prisma and PostgreSQL, outside of any client or employer engagement.",
+    problem:
+      "I wanted hands-on depth in Node.js beyond tutorials — proof that I could reproduce a real, production-grade system's domain architecture and business logic on an unfamiliar runtime, without a framework doing the architectural thinking for me.",
+    solution: [
+      {
+        label: "OOP Domain Architecture",
+        text: "Rebuilt the backend using hand-rolled Repository, Service, Policy and Controller layers wired through a custom dependency injection container, mirroring the discipline of the original Laravel design.",
+      },
+      {
+        label: "Data Layer Migration",
+        text: "Moved from MySQL/Eloquent to PostgreSQL via Prisma 7, working through several Prisma 7 breaking changes along the way.",
+      },
+      {
+        label: "Auth & Validation",
+        text: "Implemented JWT authentication and Zod request validation, resolving middleware mismatches between Bearer-token and cookie-based auth and Zod coercion bugs on optional form fields, with EJS for server-rendered views.",
+      },
+      {
+        label: "Environment Debugging",
+        text: "Worked through Windows/PowerShell-specific environment issues that don't show up in the more common Unix-based Node.js tutorials and guides.",
+      },
+    ],
+    tech: ["Node.js", "Express", "Prisma 7", "PostgreSQL", "JWT", "Zod", "EJS"],
+  },
+  {
     title: "HelloNemo — Veterinary Telehealth",
     subtitle: "Custom OOP Telehealth Solution",
     overview:

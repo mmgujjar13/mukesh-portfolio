@@ -48,6 +48,29 @@ const caseStudies = [
     tech: ["Laravel 11/12", "MySQL", "Redis Queues", "AWS EC2"],
   },
   {
+    title: "Intro — Queer Desi Dating",
+    subtitle: "High-Concurrency Matchmaking Portal",
+    overview:
+      "A bespoke matchmaking and networking portal featuring advanced profile discovery and a custom real-time communication infrastructure.",
+    problem:
+      "The platform needed complex profile filtering based on strict privacy settings, plus a secure real-time chat infrastructure capable of handling high concurrent loads.",
+    solution: [
+      {
+        label: "Advanced Filtering",
+        text: "Engineered a customized WordPress architecture using advanced taxonomies for deep, multi-layered profile filtering.",
+      },
+      {
+        label: "Custom Page Architecture",
+        text: "Developed custom page templates optimized for profile viewing, match discovery and secure onboarding.",
+      },
+      {
+        label: "Real-Time Chat Infrastructure",
+        text: "Bypassed heavy server-polling to build a dedicated WhatsApp-style chat infrastructure, supporting 200+ concurrent users.",
+      },
+    ],
+    tech: [ "Custom WordPress Theme", "AJAX", "Custom Taxonomies" ],
+  },
+  {
     title: "HelloNemo — Veterinary Telehealth",
     subtitle: "Custom OOP Telehealth Solution",
     overview:
@@ -69,29 +92,6 @@ const caseStudies = [
       },
     ],
     tech: ["Custom WordPress (OOP)", "Google Meet API", "Stripe API", "Cron Jobs"],
-  },
-  {
-    title: "Intro — Queer Desi Dating",
-    subtitle: "High-Concurrency Matchmaking Portal",
-    overview:
-      "A bespoke matchmaking and networking portal featuring advanced profile discovery and a custom real-time communication infrastructure.",
-    problem:
-      "The platform needed complex profile filtering based on strict privacy settings, plus a secure real-time chat infrastructure capable of handling high concurrent loads.",
-    solution: [
-      {
-        label: "Advanced Filtering",
-        text: "Engineered a customized WordPress architecture using advanced taxonomies for deep, multi-layered profile filtering.",
-      },
-      {
-        label: "Custom Page Architecture",
-        text: "Developed custom page templates optimized for profile viewing, match discovery and secure onboarding.",
-      },
-      {
-        label: "Real-Time Chat Infrastructure",
-        text: "Bypassed heavy server-polling to build a dedicated WhatsApp-style chat infrastructure, supporting 200+ concurrent users.",
-      },
-    ],
-    tech: ["Custom WordPress Theme", "AJAX", "Custom Taxonomies"],
   },
 ];
 

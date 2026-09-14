@@ -9,7 +9,7 @@ const workHistory = [
     location: "Surat, Gujarat",
     skills: ["Laravel", "WordPress", "Freelance"],
     points: [
-      "Engaged as an independent freelance developer, including a current 3-month contract with former employer Atlassoftweb (through Sept 2026), continuing ownership of the AMC platform and modular CMS architecture built in-house.",
+      "Engaged as an independent freelance developer, including a current 3-month contract with former employer Atlassoftweb (through Sept 2026).",
       "Taking on additional freelance client work in Laravel and WordPress development while pursuing a full-time senior/lead role.",
     ],
   },

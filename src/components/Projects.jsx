@@ -18,7 +18,7 @@ const projects = [
     title: "Italian EdTech Platforms",
     category: "Dedicated Technical Lead",
     company: "EpiCode, BeamMeUp, Brainteractive, PCTO",
-    duration: "2021 - Present",
+    duration: "2021 - 2026",
     desc: "Dedicated technical point of contact directing engineering across four educational platforms in Italy — direct client communication (via Skype chat) from 2021-2023, with ongoing contributions through Atlassoftweb's client engagement since 2023.",
     technologies: ["BuddyBoss", "LearnDash", "Stripe", "Monaco Editor"],
     highlights: [
@@ -46,7 +46,7 @@ const projects = [
     title: "More WordPress Websites",
     category: "CMS Web Development",
     company: "Atlassoftweb & Centricwebsolution",
-    duration: "2016 - Present",
+    duration: "2016 - 2026",
     desc: "100+ additional WordPress site builds, migrations and custom themes delivered across healthcare, education and corporate sectors — including a theme submitted to the official WordPress.org directory.",
     technologies: ["WordPress", "PHP", "ACF", "WooCommerce"],
     highlights: [
